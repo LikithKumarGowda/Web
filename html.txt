@@ -1,0 +1,144 @@
+Html: Hyper text markup language
+	Standardized system for tagging
+
+static web pages
+
+*********************************************************************************************
+
+Types of tag:
+1.Paired tag       ex:  <body></body> 
+
+2.Unpaired tag     ex:   </br>
+
+
+***********************************************************************************************
+	Non executable statement : commenting the line in html 
+					<!---                                   --->
+
+
+*************************************************************************************************
+Link tag : is used for image in the icon
+           & for setting the css 
+
+
+
+               name of css file or directory
+<link   href=./test.css                          rel="classpath">
+
+
+<link  href=./test.css   rel="icon">
+
+
+******************************************************************************************************
+
+
+<body>
+	<img src=" "   
+
+
+
+*******************************************************************************************************
+
+iframe: 
+------
+it is used for nesting web pages
+
+
+src : is used to specify the url of the webpage needed to be nested inside the webpage.
+
+
+
+*************************************************************************************************
+What are the new features in html 5 :
+1.audio tag is a new feature introduced in html5.
+
+
+
+
+
+
+
+
+**************************************************************************************************************
+Anchor tag:
+----------
+ It is used to redirect to other webpages.
+
+****************************************************************************************************************
+Heading tags:
+  
+6 heading tags from h1 to h6 in the decresing size from h1 to h6.
+
+*********************************************************************************************************
+
+HyperLink:
+
+It is a type of link which opens the specified link on selection.
+
+Hyperlink can be formed in 3 ways.
+<a>
+<h1>
+<p>
+
+<a href="#Html">Html</a>
+<a href="#css>css</a>
+
+<h1 id="HTML">html</h1>
+<p>...........</p>
+
+
+<h1 id="CSS">css</h1>
+<p>...........</p>
+
+
+
+
+****************************************************************************************************
+Cell padding :
+To arrange the cell size and space , to a certain size.
+to set the cell size 
+
+Cell spacing:
+to set spacing bw cells
+
+********************************************************************************************************
+
+rowspan:
+
+colspan:
+
+
+*****************************************************************************************************
+
+ordered list  <ol>
+unordered list  <ul>
+
+
+
+Note:-
+for bold in text:
+ use strong or mark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
