@@ -1,0 +1,13 @@
+h1 {
+  color: aquamarine;
+}
+p {
+  color: blueviolet;
+}
+p {
+  border: solid 1px red;
+}
+p {
+  margin: 40px;
+}
+where, margin=(10px/20px/30px/40px)
